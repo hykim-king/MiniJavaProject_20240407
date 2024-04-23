@@ -1,0 +1,18 @@
+(Main.java:45) - member.json 파일 생성!
+(Main.java:50) - member.json 파일 생성!
+(Main.java:61) - 저장 건수:3
+(Main.java:85) - {memberId=james01, name=이상무01, passwd=a4321, email=james01@naver.com, cellphone=010-1234-5678, regDate=2024-04-19, regId=admin}
+(Main.java:85) - {memberId=james02, name=이상무02, passwd=a4321, email=james02@naver.com, cellphone=010-1234-5679, regDate=2024-04-19, regId=admin}
+(Main.java:85) - {memberId=james03, name=이상무03, passwd=a4321, email=james03@naver.com, cellphone=010-1234-5680, regDate=2024-04-19, regId=admin}
+(Main.java:89) - MemberDTO [memberId=james01, name=이상무01, passwd=a4321, email=james01@naver.com, cellphone=010-1234-5678, regDate=2024-04-19, regId=admin]
+(Main.java:89) - MemberDTO [memberId=james02, name=이상무02, passwd=a4321, email=james02@naver.com, cellphone=010-1234-5679, regDate=2024-04-19, regId=admin]
+(Main.java:89) - MemberDTO [memberId=james03, name=이상무03, passwd=a4321, email=james03@naver.com, cellphone=010-1234-5680, regDate=2024-04-19, regId=admin]
+(Main.java:89) - 이상무01
+(Main.java:89) - 이상무02
+(Main.java:89) - 이상무03
+(Main.java:92) - 이상무01
+(Main.java:92) - 이상무02
+(Main.java:92) - 이상무03
+(Main.java:93) - 이상무01
+(Main.java:93) - 이상무02
+(Main.java:93) - 이상무03
