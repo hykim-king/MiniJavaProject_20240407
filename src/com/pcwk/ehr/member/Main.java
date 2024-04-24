@@ -138,7 +138,6 @@ public class Main implements PLog {
 	}
 	public static void main(String[] args) {
 		Main m=new Main();
-		//형상관리에 추가
 		m.doRetrieveName();
 		
 		//목록조회
