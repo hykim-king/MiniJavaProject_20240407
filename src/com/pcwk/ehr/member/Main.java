@@ -139,7 +139,7 @@ public class Main implements PLog {
 	public static void main(String[] args) {
 		Main m=new Main();
 		m.doRetrieveName();
-		
+		//형상관리 : 2024.04.25
 		//목록조회
 		//m.doRetrieve();
 		
